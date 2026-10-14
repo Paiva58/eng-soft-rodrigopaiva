@@ -1,2 +1,5 @@
 # eng-soft-rodrigopaiva
-# Rodrigo de Oliveira Paiva, engenharia de softwere, turma B
+
+**Nome:** Rodrigo de Oliveira Paiva
+
+**Curso:** Engenharia de Software - Turma B
