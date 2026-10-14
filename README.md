@@ -1,9 +1,17 @@
 # eng-soft-rodrigopaiva
 
-**Nome:** Rodrigo de Oliveira Paiva
+Atividade prática de Engenharia de Software sobre controle de versões.
 
-**Curso:** Engenharia de Software - Turma B
+# Engenharia de Software
 
-## Sobre o repositório
+Aluno: Rodrigo de Oliveira Paiva
 
-Repositório criado para a atividade prática da Aula 8 de Engenharia de Software. O objetivo é praticar o fluxo de trabalho com controle de versões no GitHub: criar um repositório, registrar mudanças em commits, isolar o trabalho em uma branch e incorporá-lo à branch principal por meio de um Pull Request revisado.
+Curso: Engenharia de Software - Turma B
+
+# Objetivo
+
+Este repositório foi criado na Aula 8 para praticar o controle de versões no GitHub: registrar mudanças em commits, trabalhar em uma branch separada e abrir Pull Requests.
+
+# Sobre o projeto
+
+O projeto demonstra o fluxo básico de trabalho em equipe no desenvolvimento de software: isolar uma alteração em uma branch, registrá-la em commits, revisá-la em um Pull Request e incorporá-la à branch principal.
